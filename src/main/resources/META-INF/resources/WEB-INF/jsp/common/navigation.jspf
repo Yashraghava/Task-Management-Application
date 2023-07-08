@@ -1,0 +1,12 @@
+<nav class="navbar navbar-expand-md navbar-light bg-light mb-3 p-1">
+	<div class="collapse navbar-collapse">
+		<ul class="navbar-nav" style="padding:20px;">
+			<li class="nav-item"><a class="nav-link" href="/home">Home</a></li>
+			<li class="nav-item"><a class="nav-link" href="/list-todos">Tasks</a></li>
+			<li><a class="navbar-brand m-1" href="https://www.youtube.com/channel/UC1Sbc3ZihJscp3n7-Lk1-cQ"><img src="../img/youtube-logo.png" height="50px" width="50px"></a></li>
+		</ul>
+	</div>
+	<ul class="navbar-nav">
+		<li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
+	</ul>	
+</nav>
